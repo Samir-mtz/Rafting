@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>Site Plan</title>
+    <link type="text/css" rel="stylesheet" href="../css/courses.css">
+</head>
+
+<body>
+    <header>
+        <h1>[Dry Oar] Site Plan</h1>
+        <h2>FirstName LastName</h2>
+        <h2>WDD 130-[section]</h2>
+        <!-- In the header above, add your name and class number. For example if you are in section 3 you would put WDD 100.03 -->
+    </header>
+    <main>
+
+        <h2>Overview</h2>>
+        <hr>
+        <h3>Purpose</h3>
+        <p>[Your purpose here]</h2>
+        
+
+        <h3>Audience</h2>
+        <p>[Your audience here]</p>
+        
+
+        <h2>Branding</h2>
+        <h3>Website Logo</h3>
+        <!-- You are not required to use this logo for your site…but you must have a logo for your website.  I can offer additional logos to use, or you can create your own-->
+        <img src="" alt="Logo image">
+        <h2>
+
+ 
+
+    </main>
+
+   
+
+
+</body>
+
+
+{"name":"image.png","date":"2018-05-30T18:22:59.936Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fimage.png","type":"image/png","size":14529,"imageWidth":432,"imageHeight":84,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fimage.png","thumbnailWidth":330,"thumbnailHeight":65,"dominantColor":null,"uuid":"ZpAYsFcc0SdugPRE"}
+{"name":"wireframe-boxes-labels.jpg","date":"2018-05-30T19:56:15.064Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fwireframe-boxes-labels.jpg","type":"image/jpeg","size":192305,"imageWidth":900,"imageHeight":994,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fwireframe-boxes-labels.jpg","thumbnailWidth":299,"thumbnailHeight":330,"dominantColor":"rgb(252,251,251)","uuid":"xZqdCt7R8CkTlRs1"}
+{"name":"IMG_5684.jpg","date":"2018-12-27T03:08:49.047Z","url":"https://cdn.glitch.com/e7d21069-86b1-4294-9067-59ab154d710e%2FIMG_5684.jpg","type":"image/jpeg","size":1463853,"imageWidth":2448,"imageHeight":3264,"thumbnail":"https://cdn.glitch.com/e7d21069-86b1-4294-9067-59ab154d710e%2Fthumbnails%2FIMG_5684.jpg","thumbnailWidth":248,"thumbnailHeight":330,"dominantColor":"rgb(153,189,227)","uuid":"SPE6R7TR8czAF7pM"}
+{"uuid":"ZpAYsFcc0SdugPRE","deleted":true}
+{"name":"banner.jpg","date":"2021-09-29T00:46:43.974Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fbanner.jpg","type":"image/jpeg","size":800242,"imageWidth":2000,"imageHeight":895,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Fbanner.jpg","thumbnailWidth":330,"thumbnailHeight":148,"uuid":"NmKvYUVD8n1lphBm"}
+{"uuid":"NmKvYUVD8n1lphBm","deleted":true}
+{"name":"banner.jpg","date":"2021-09-29T00:54:33.956Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fbanner.jpg","type":"image/jpeg","size":800381,"imageWidth":2000,"imageHeight":895,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Fbanner.jpg","thumbnailWidth":330,"thumbnailHeight":148,"uuid":"WSagyOTqiT67ROhv"}
+{"uuid":"WSagyOTqiT67ROhv","deleted":true}
+{"name":"banner.jpg","date":"2021-09-29T00:58:58.702Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fbanner.jpg","type":"image/jpeg","size":800384,"imageWidth":2000,"imageHeight":454,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Fbanner.jpg","thumbnailWidth":330,"thumbnailHeight":75,"uuid":"YHdM0IxRfzLbR6IS"}
+{"uuid":"YHdM0IxRfzLbR6IS","deleted":true}
+{"name":"rsz_banner.jpg","date":"2021-10-01T00:58:11.221Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Frsz_banner.jpg","type":"image/jpeg","size":42893,"imageWidth":1000,"imageHeight":227,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Frsz_banner.jpg","thumbnailWidth":330,"thumbnailHeight":75,"uuid":"JA3PRaHfAPfIVw1I"}
+{"uuid":"JA3PRaHfAPfIVw1I","deleted":true}
+{"name":"rsz_3banner.webp","date":"2021-10-01T01:02:02.800Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Frsz_3banner.webp","type":"image/webp","size":121256,"imageWidth":1500,"imageHeight":341,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Frsz_3banner.webp","thumbnailWidth":330,"thumbnailHeight":76,"uuid":"M19dQSQTUFUkw1uY"}
+{"name":"rsz_3banner.jpg","date":"2021-10-01T01:02:03.008Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Frsz_3banner.jpg","type":"image/jpeg","size":138204,"imageWidth":1500,"imageHeight":341,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Frsz_3banner.jpg","thumbnailWidth":330,"thumbnailHeight":76,"uuid":"oCb5P5jFmDNSzycv"}
+{"uuid":"M19dQSQTUFUkw1uY","deleted":true}
+{"uuid":"oCb5P5jFmDNSzycv","deleted":true}
+{"name":"banner.jpg","date":"2021-10-01T14:37:27.812Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fbanner.jpg","type":"image/jpeg","size":126582,"imageWidth":1500,"imageHeight":341,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Fbanner.jpg","thumbnailWidth":330,"thumbnailHeight":76,"uuid":"6x7cgvHgYGLBnYAl"}
+{"uuid":"6x7cgvHgYGLBnYAl","deleted":true}
+{"name":"banner.jpg","date":"2021-10-01T16:25:48.690Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fbanner.jpg","type":"image/jpeg","size":743923,"imageWidth":1500,"imageHeight":341,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Fbanner.jpg","thumbnailWidth":330,"thumbnailHeight":76,"uuid":"ZoZ7smrQN1DEpsuu"}
+{"uuid":"ZoZ7smrQN1DEpsuu","deleted":true}
+{"name":"BANNER-FINAL.jpg","date":"2021-10-01T16:28:19.751Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2FBANNER-FINAL.jpg","type":"image/jpeg","size":772867,"imageWidth":2000,"imageHeight":454,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2FBANNER-FINAL.jpg","thumbnailWidth":330,"thumbnailHeight":75,"uuid":"EaK4bITE6cDxTa58"}
+{"name":"Twitter.png","date":"2021-10-04T15:05:17.348Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2FTwitter.png","type":"image/png","size":4348,"imageWidth":512,"imageHeight":512,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2FTwitter.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"ye9JmN4LZblsgKVk"}
+{"name":"youtube.png","date":"2021-10-04T15:05:17.363Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fyoutube.png","type":"image/png","size":9685,"imageWidth":640,"imageHeight":451,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Fyoutube.png","thumbnailWidth":330,"thumbnailHeight":233,"uuid":"i5gihBUC1VVESatD"}
+{"name":"facebook.png","date":"2021-10-04T15:05:17.374Z","url":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Ffacebook.png","type":"image/png","size":30524,"imageWidth":1200,"imageHeight":1200,"thumbnail":"https://cdn.glitch.com/c026b9df-8961-4964-8a99-1b63e3f4dff0%2Fthumbnails%2Ffacebook.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"e61K3JrHKB5iTdUN"}
+</html>
