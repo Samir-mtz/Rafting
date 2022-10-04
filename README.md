@@ -26,7 +26,7 @@ These files will be used later in the semester.  You can ignore them until then 
 ## Reference
 Here are some good resources and tips from the course in a handy, easy to find location.
 
-### Tips
+### Tips en el nuevo mundo
 * Remember to get help early and often from online resources, classmates, and the instructor.
 * Each time you are ready to turn in your work in Ilearn remember to tap on the "Publish" button in the top right corner of the window and "Update Published Version". Then you can copy the link provided there and paste it into Ilearn
 * Watch for red in your editor. Anything in red will always be an error.
