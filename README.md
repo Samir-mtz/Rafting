@@ -31,6 +31,7 @@ Here are some good resources and tips from the course in a handy, easy to find l
 * Each time you are ready to turn in your work in Ilearn remember to tap on the "Publish" button in the top right corner of the window and "Update Published Version". Then you can copy the link provided there and paste it into Ilearn
 * Watch for red in your editor. Anything in red will always be an error.
 * Validate often! Use the links below to find any errors you may have in your code.
+* more things :)
 ### Resources
 * [W3Schools](https://www.w3schools.com ): Great reference for both HTML and CSS
 * [HTML Validator](https://validator.w3.org/#validate_by_input): You can copy/paste your HTML here at anytime to check it for errors.
