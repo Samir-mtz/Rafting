@@ -1,4 +1,4 @@
-# Welcome to WDD 130 -- Web Fundamentals 2022
+# Welcome to WDD 130 -- Web Fundamentals 2022 and 2023
 
 You should use this as a starting point to begin the course.
 
